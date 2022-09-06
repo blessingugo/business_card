@@ -1,0 +1,28 @@
+body{ margin: 20px;
+	text-align: center;
+	font-family:sans-serif ;
+	font-style: italic;
+	font-weight:normal;
+	
+
+}
+
+.photo{
+	width: 150px;
+	border-radius: 5px;
+}
+
+.card{
+	background-color:darkslategray;
+	border-bottom:8px solid gainsboro;
+	padding: 20px;
+	display: flex;
+	width: 400px;
+	justify-content: space-around;
+	margin: 0 auto;
+	color: antiquewhite;
+}
+
+.blue-border{
+	
+}

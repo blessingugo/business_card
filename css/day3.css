@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<title></title>
+<style>
+
+p{
+  font-family:courier new; 
+  monospace; verdana;
+  font-weight:bold;
+  font-style:italic;
+  font-size:20px;
+  
+  }
+
+h1{font-family: verdana,
+ sserif; fontsize:3em;
+
+}
+.body{font-family:"courier New","lucida;
+font-size:20px;
+
+}
+
+
+</style>
+
+</head>
+
+<body>
+	<h1>This is a Heading</h1>
+	
+	<p> This is a paragraph</p>
+	<p> This is another paragraph. </P>
+</body>
+</html>
